@@ -1,0 +1,8 @@
+{
+  "name": "hubot-todo",
+  "description": "Manage your todo list",
+  "repository": "https://github.com/yuukimaru130516/hubot-todo",
+  "logo": "",
+  "keywords": ["node"],
+  "image": "heroku/nodejs"
+}
